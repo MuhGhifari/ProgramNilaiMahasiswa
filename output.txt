@@ -1,0 +1,55 @@
+                       LAPORAN NILAI                        
+                  MAHASISWA ILMU KOMPUTER                   
+                        KELAS A & B                         
+------------------------------------------------------------
+|  No  |       Nama Mahasiswa       |    NPM    |   Nilai  |
+------------------------------------------------------------
+|  1   | Abdul Fattah               | 065123001 |    78    |
+|  2   | Muhammad Davfa             | 065123002 |    78    |
+|  3   | Imam Akbar                 | 065123003 |    60    |
+|  4   | Rizha Aditya               | 065123004 |    70    |
+|  5   | Muhammad Ridwan            | 065123008 |    79    |
+|  6   | Syaifi Akmal               | 065123010 |    70    |
+|  7   | Rendi Sahputra             | 065123012 |    70    |
+|  8   | Nabila Arra                | 065123013 |    69    |
+|  9   | Bagas Arya                 | 065123014 |    50    |
+|  10  | Muhammad Tegar             | 065123015 |    70    |
+|  11  | Muhammad Rafli Alamsyah    | 065123017 |    70    |
+|  12  | M. Ghifari                 | 065123020 |    70    |
+|  13  | Bimo Argya Nugraha         | 065123021 |    70    |
+|  14  | Muhammad Ismail Sihombing  | 065123022 |    70    |
+|  15  | Muhammad Ziran             | 065123023 |    70    |
+|  16  | Sri Handayani              | 065123024 |    79    |
+|  17  | Hafnasatul An-nisa         | 065123025 |    70    |
+|  18  | Revieta Ramadhani          | 065123026 |    79    |
+|  19  | Reynaldi Wijaya            | 065123027 |    70    |
+|  20  | Novia Syahrani             | 065123028 |    80    |
+|  21  | Rafli Dwi Sahputra         | 065123029 |    70    |
+|  22  | Zidan Nugraha              | 065123031 |    60    |
+|  23  | Muhammad Satrio Pamungkas  | 065123032 |    60    |
+|  24  | Adit Mubdiansyah J         | 065123033 |    60    |
+|  25  | Rifqi Fairuzzabady         | 065123034 |    70    |
+|  26  | Raka Zahra Fauzan          | 065123035 |    60    |
+|  27  | Yudha Dwi Prasetyo         | 065123037 |    70    |
+|  28  | Satrio Muhammad Daffa      | 065123039 |    80    |
+|  29  | Asep Syahrudin             | 065123040 |    80    |
+|  30  | Muhammad Raihan A          | 065123041 |    70    |
+|  31  | Fadhil Aryasatya           | 065123042 |    80    |
+|  32  | Muhammad Sirajul Kahfi     | 065123044 |    60    |
+|  33  | Assiyva Awalya Zulfa       | 065123045 |    70    |
+|  34  | Andrian Firdaus            | 065123046 |    70    |
+|  35  | Erlangga Deni Mahendra     | 065123047 |    60    |
+|  36  | Brefanza Sandy Ramadhan    | 065123050 |    70    |
+|  37  | Evan sius                  | 065123052 |    70    |
+|  38  | Shiela Eka Artamefia       | 065123053 |    70    |
+|  39  | Tedi Ronaldi               | 065123054 |    70    |
+|  40  | Yogha Aditya               | 065123055 |    100   |
+|  41  | Jonathan Renald Hartanto   | 065123057 |    70    |
+|  42  | Muhamad Tholib             | 065123058 |    80    |
+|  43  | Heru Purnomo               | 065123060 |    60    |
+------------------------------------------------------------
+| Jumlah Data : 43                  | Rata-rata |    70.5  |
+------------------------------------------------------------
+| Nilai Tertinggi  : (Yogha Aditya)             |    100   |
+| Nilai Terendah   : (Bagas Arya)               |    50    |
+------------------------------------------------------------
